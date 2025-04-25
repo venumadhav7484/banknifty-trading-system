@@ -1,3 +1,5 @@
 venv/
 banknifty_dummy.csv
 vix_dummy.csv
+.pytest_cache/
+__pycache__/
