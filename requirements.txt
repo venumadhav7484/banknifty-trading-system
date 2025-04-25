@@ -1,0 +1,10 @@
+backtrader==1.9.78.123
+pandas
+numpy
+matplotlib
+plotly
+pyyaml
+pydantic
+pytest
+yfinance
+fpdf2
