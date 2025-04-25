@@ -1,0 +1,4 @@
+# mode: "Low-Risk"
+mode: "High-Risk"       # Options: "High-Risk" or "Low-Risk"
+atr_period: 10
+multiplier: 3.0
